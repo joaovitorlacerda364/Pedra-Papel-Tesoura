@@ -1,2 +1,3 @@
-# Projeto Machine Learning
- Inteligencia Artifical Baseada Em Aprendizado De Maquina
+# Inteligencia Artifical
+
+Esta inteligencia artificial é inspirada no jarvis, na gideon, entre outras inteligencias artificiais de filmes
