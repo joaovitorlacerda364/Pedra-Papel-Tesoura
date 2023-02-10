@@ -1,2 +1,1 @@
-# Projeto Machine Learning
- Inteligencia Artifical Baseada Em Aprendizado De Maquina
+# Pedra, Papel Ou Tesoura Desenvolvido com HTML, CSS, JS
